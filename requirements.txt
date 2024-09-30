@@ -1,0 +1,8 @@
+matplotlib==3.8.2
+numpy==2.0.1
+pandas==2.0.3
+pyecharts==2.0.6
+pymysql==1.1.1
+PyQt5==5.15.11
+PyQt5_sip==12.13.0
+Requests==2.32.3
